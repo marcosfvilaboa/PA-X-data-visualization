@@ -16,15 +16,15 @@ El seu objectiu és representar el nombre d'acords de pau que mencionin mesures 
 Les dades utilitzades formen part del conjunt de dades obertes del projecte Peace Agreements de la Universitat 
 d'Edimburg i contenen informació sobre els acords de pau signats a tot el món des de 1990.
 
-- [data](./data): fitxers CSV utilitzats per a la construcció de la visualització.
-  - [pax_327_agreements.csv](./data/pax_327_agreements.csv)
-  - [pax_measures_data.csv](./data/pax_measures_data.csv)
+- [data](/data): fitxers CSV utilitzats per a la construcció de la visualització.
+  - [pax_327_agreements.csv](/data/pax_327_agreements.csv)
+  - [pax_measures_data.csv](data/pax_measures_data.csv)
 - [docs](./docs): document PDF amb l'informe. 
-  - [FernandezVilaboaMarcos_VD_PAC2.pdf](./docs/FernandezVilaboaMarcos_VD_PAC2.pdf)
+  - [FernandezVilaboaMarcos_VD_PAC2.pdf](docs/FernandezVilaboaMarcos_VD_PAC2.pdf)
 - [img](./img): captures de la visualització
   - mesures_protecció_acords_pau.png
 - [src](./src): fitxers amb el codi per a la neteja i transformació de les dades.
-  - [transformation.ipynb](./src/transformation.ipynb)
+  - [transformation.ipynb](src/transformation.ipynb)
 
 
 ----
