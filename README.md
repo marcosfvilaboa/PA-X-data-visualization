@@ -1,18 +1,15 @@
-# Mesures de protecció en drets humans i igualtat en acords de pau
+# Mesures de protecció en acords de pau
 
 Aquest treball pretén mostrar el procés d'elaboració d'una visualització de dades a partir de la informació dels acords de pau a tot el món proporcionada pel projecte [Peace Agreements](https://www.peaceagreements.org/) de la Universitat d'Edimburg.
 
 ## Visualització de dades
 
-La visualització es pot consultar a [Tableau Public](https://public.tableau.com/profile/mvilaboa#!/). 
+La visualització global es pot consultar a [Tableau Public - DataViz global](https://public.tableau.com/profile/mvilaboa#!/vizhome/pax_measures_DataViz/Mesuresdeproteccialsacordsdepau). 
 
-----
-### To-Do
-El seu objectiu és representar el nombre d'acords de pau ...
-### To-Do
-----
+El seu objectiu és representar el nombre d'acords de pau que mencionin mesures de protecció en l'ambit d'igualtat i drets humans. Dins la exploració, anàlisi i transformació de les dades, s'han realitzat un seguit de visualitzacions a les diferents fases que es poden consultar a [Tableau Public - DataViz](https://public.tableau.com/profile/mvilaboa#!/vizhome/mesuresdeproteccioalspax/1_7_Acordsdeproteccicivilsperregions)
 
-[![Visualization](img/captura_visualit_1.png)](https://public.tableau.com/profile/mvilaboa#!/)
+
+[![DataViz](img/Mesures de protecció als acords de pau.png)](https://public.tableau.com/profile/mvilaboa#!/vizhome/pax_measures_DataViz/Mesuresdeproteccialsacordsdepau)
 
 ## Dades
 
@@ -21,13 +18,13 @@ d'Edimburg i contenen informació sobre els acords de pau signats a tot el món 
 
 - [data](./data): fitxers CSV utilitzats per a la construcció de la visualització.
   - [pax_327_agreements.csv](./data/pax_327_agreements.csv)
-  - [data_filtered.csv](./data/data_filtered.csv)
-  - [data_transformed.csv](./data/data_transformed.csv)
+  - [pax_measures_data.csv](./data/pax_measures_data.csv)
 - [docs](./docs): document PDF amb l'informe. 
-  - [PAC2](./docs/FernandezVilaboaMarcos_VD_PAC2.pdf)
+  - [FernandezVilaboaMarcos_VD_PAC2.pdf](./docs/FernandezVilaboaMarcos_VD_PAC2.pdf)
 - [img](./img): captures de la visualització
+  - Mesures de protecció als acords de pau.png
 - [src](./src): fitxers amb el codi per a la neteja i transformació de les dades.
-  - [transformation.pynb](./src/transformation.pynb)
+  - [transformation.ipynb](./src/transformation.ipynb)
 
 
 ----
