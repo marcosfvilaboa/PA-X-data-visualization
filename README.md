@@ -1,4 +1,4 @@
-# Acords de pau sobre mesures de protecció en drets humans i igualtat
+# Mesures de protecció en drets humans i igualtat en acords de pau
 
 Aquest treball pretén mostrar el procés d'elaboració d'una visualització de dades a partir de la informació dels acords de pau a tot el món proporcionada pel projecte [Peace Agreements](https://www.peaceagreements.org/) de la Universitat d'Edimburg.
 
@@ -24,7 +24,7 @@ d'Edimburg i contenen informació sobre els acords de pau signats a tot el món 
   - [data_filtered.csv](./data/data_filtered.csv)
   - [data_transformed.csv](./data/data_transformed.csv)
 - [docs](./docs): document PDF amb l'informe. 
-  - [PAC2](./docs/FernandezVilaboaMarcos_PAC2.pdf)
+  - [PAC2](./docs/FernandezVilaboaMarcos_VD_PAC2.pdf)
 - [img](./img): captures de la visualització
 - [src](./src): fitxers amb el codi per a la neteja i transformació de les dades.
   - [transformation.pynb](./src/transformation.pynb)
