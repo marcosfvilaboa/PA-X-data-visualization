@@ -24,7 +24,7 @@ d'Edimburg i contenen informació sobre els acords de pau signats a tot el món 
 - [img](./img): captures de la visualització
   - [mesures_protecció_acords_pau.png](./img/mesures_protecció_acords_pau.png)
 - [src](./src): fitxers amb el codi per a la neteja i transformació de les dades.
-  - [transformation.ipynb](.src/transformation.ipynb)
+  - [transformation.ipynb](./src/transformation.ipynb)
 
 
 ----
