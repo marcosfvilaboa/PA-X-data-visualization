@@ -9,7 +9,7 @@ La visualització global es pot consultar a [Tableau Public - DataViz global](ht
 El seu objectiu és representar el nombre d'acords de pau que mencionin mesures de protecció en l'ambit d'igualtat i drets humans. Dins la exploració, anàlisi i transformació de les dades, s'han realitzat un seguit de visualitzacions a les diferents fases que es poden consultar a [Tableau Public - DataViz](https://public.tableau.com/profile/mvilaboa#!/vizhome/mesuresdeproteccioalspax/1_7_Acordsdeproteccicivilsperregions)
 
 
-[!Visualization](img/Mesures de protecció als acords de pau.png)](https://public.tableau.com/profile/mvilaboa#!/vizhome/pax_measures_DataViz/Mesuresdeproteccialsacordsdepau)
+[![Visualization](img/Mesures de protecció als acords de pau.png)](https://public.tableau.com/profile/mvilaboa#!/vizhome/pax_measures_DataViz/Mesuresdeproteccialsacordsdepau)
 
 ## Dades
 
